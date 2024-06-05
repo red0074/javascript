@@ -1,0 +1,14 @@
+h1 {
+  color: white;
+  background-color: red;
+}
+body {
+  background-color: blueviolet;
+}
+button {
+  background-color: aqua;
+}
+.test {
+  background-color: blue;
+  font-size: 40px;
+}
