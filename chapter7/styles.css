@@ -1,0 +1,15 @@
+#style-box {
+  height: 300px;
+  width: 300px;
+  background-color: aqua;
+  color: black;
+  border: 1px solid blue;
+}
+#insertEl {
+  height: 350px;
+  width: 350px;
+  color: white;
+  background-color: pink;
+  border: 2.5px solid palevioletred;
+  margin-top: 10px;
+}
