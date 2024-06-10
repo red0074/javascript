@@ -1,0 +1,14 @@
+div {
+  height: 100px;
+  width: 100px;
+  color: white;
+  background-color: pink;
+  border: 1px solid red;
+}
+#obj {
+  height: 100px;
+  width: 100px;
+  color: white;
+  background-color: rgb(176, 57, 192);
+  border: 1px solid red;
+}
